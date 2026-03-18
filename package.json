@@ -1,0 +1,22 @@
+{
+  "name": "rankigi-openclaw-skill",
+  "version": "1.0.0",
+  "description": "RANKIGI governance skill for OpenClaw",
+  "main": "rankigi.js",
+  "license": "MIT",
+  "keywords": [
+    "rankigi",
+    "openclaw",
+    "governance",
+    "audit",
+    "agents"
+  ],
+  "homepage": "https://rankigi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rankigi/openclaw-skill"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
